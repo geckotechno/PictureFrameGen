@@ -1,0 +1,6 @@
+The Picture Frame Generator takes a directory as the source and
+generated image files in 800x640 (scaled proportionaly with black trim border)
+and adds a second copy of the image with texted added if entries in 
+file.properties match the file name.  This is assuming that your picture
+frame reads files form the thumb drive in alphanumberic order like mine does.
+
